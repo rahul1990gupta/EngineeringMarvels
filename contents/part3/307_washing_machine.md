@@ -1,0 +1,1 @@
+![](./images/washing_machine.png)
