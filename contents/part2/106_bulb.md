@@ -1,1 +1,2 @@
-[Bulb Diagram](./images/incandascent_bulb.png)
+![Bulb Diagram](./images/incandascent_bulb.png)
+
