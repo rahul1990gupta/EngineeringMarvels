@@ -26,3 +26,12 @@ You may hear this from a lot of children, adult and older people. And classroom 
  - middle school teenager can understand how the world around her works 
  - parent can explain in simple words to their kids how it works and encourage them to explore her surroundings. 
 
+# Outline 
+[Part 1](./part1/) talks about the most complex pieces of engineering that we use everyday. We break it down to manageable set of components that we can understand. More importantly, we focus Car and modern computing devices(PC, mobile) and look at components that make them.
+
+[Part 2](./part2/) talks about the parts that play a central role on how car and mobile phone work. 
+
+[Part 3](./part3/) talks about other common household object that we use everyday. e.g. Washing Machine, Water Purifier etc.
+
+[Part4](./part4/) talks about Materials and physical phenomenon that makes the amazing engineering possible. 
+
